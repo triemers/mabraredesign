@@ -1,0 +1,45 @@
+.header {
+    background: linear-gradient(#040C7A, #139AA1);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0;
+    height: 100px;
+}
+
+#logo {
+    max-height: 100px;
+    width: auto;
+    float: left;
+}
+
+.navbar {
+    background-color: #139AA1;
+    margin-top: 0;
+    text-decoration: none;
+    color: #fff;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    padding-right: 2rem;
+}
+
+.head {
+    margin-left: 12%;
+}
+
+#title {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #040C7A;
+    margin: auto;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #139AA1;
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
