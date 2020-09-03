@@ -12,18 +12,7 @@
     float: left;
 }
 
-.navbar {
-    background-color: #139AA1;
-    margin-top: 0;
-    text-decoration: none;
-    color: #fff;
-}
 
-.navbar a {
-    text-decoration: none;
-    color: #fff;
-    padding-right: 2rem;
-}
 
 .head {
     margin-left: 12%;
@@ -42,4 +31,9 @@ h2 {
 
 h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sponsors {
+    height: 100px;
+    width: auto;
 }
